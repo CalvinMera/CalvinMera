@@ -7,3 +7,4 @@
 - I am interested in machine learning, deep learning, and quantum computing.
 - I am currently focusing on structures and algorithms in Python, quantum algorithms in Q#, and NLP.
 - EMAIL ME IF YOU GET LOST (calvin dot mera at gmail dot com).
+- CONNECT WITH ME ON [LINKEDIN](https://www.linkedin.com/in/calvin-mera/) IF YOU GET LOST.
