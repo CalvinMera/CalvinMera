@@ -3,7 +3,7 @@
 ### Bonjour, je m'appelle Calvin!
 #### Estoy aspirando a ser un ingeniero de aprendizaje de máquinas.
 
-- I used to be a mathematical physicist (Ph.D. in Physics from the University of Iowa). I still am, but I used to be, [too](https://scholar.google.com/citations?user=UaVHISQAAAAJ&hl=en).
+- I used to be a mathematical physicist (PhD in Physics from the University of Iowa). I still am, but I used to be, [too](https://scholar.google.com/citations?user=UaVHISQAAAAJ&hl=en).
 - I am interested in data science, machine learning, deep learning, and quantum computing.
 - EMAIL ME IF YOU GET LOST (calvin dot mera at gmail dot com).
 - CONNECT WITH ME ON [LINKEDIN](https://www.linkedin.com/in/calvin-mera/) IF YOU GET LOST.
