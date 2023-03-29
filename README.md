@@ -4,7 +4,7 @@
 #### Estoy aspirando a ser un ingeniero de aprendizaje de máquinas.
 
 - I used to be a mathematical physicist (PhD in Physics from the University of Iowa). I still am, but I used to be, [too](https://scholar.google.com/citations?user=UaVHISQAAAAJ&hl=en).
-- I am interested in data science, machine learning, deep learning, and quantum computing.
+- I am [interested](https://stackexchange.com/users/13193888/calvin-stefano-mera?tab=accounts) in data science, machine learning, deep learning, and quantum computing.
 - EMAIL ME IF YOU GET LOST (calvin dot mera at gmail dot com).
 - CONNECT WITH ME ON [LINKEDIN](https://www.linkedin.com/in/calvin-mera/) IF YOU GET LOST.
 - CALL ME IF YOU GET ....
